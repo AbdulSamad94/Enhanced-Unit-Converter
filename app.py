@@ -45,8 +45,7 @@ def main():
 
     # --- ChatBot Mode ---
     elif app_mode == "ChatBot":
-        st.sidebar.header("ChatBot with Gemini")
-        st.header("Chat with Gemini")
+        st.header("Chat with AI")
 
         # Initialize the model outside of the loop
         model = genai.GenerativeModel("gemini-2.0-flash")
