@@ -100,10 +100,6 @@ The project is organized into the following components:
 -   **Python:** The programming language used for the entire project.
 -   **python-dotenv:** For managing the API key securely.
 
-## Creator Information
-
-This project was created by **Abdul Samad Siddiqui**. I am a full-stack developer with skills-set in Next.js, React, Tailwind CSS, JavaScript, TypeScript, Node.js, Express.js, MongoDB, HTML, CSS, and Python. I'm 17 years old, currently learning Agentic AI at the Governor IT Initiative, and I live in Karachi, Pakistan.
-
 ## Contributing
 
 Contributions to this project are welcome! If you find any bugs or have suggestions for new features, please open an issue or a pull request on the GitHub repository.
